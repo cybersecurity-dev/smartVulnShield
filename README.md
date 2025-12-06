@@ -1,4 +1,8 @@
+<div align="center">
+
 # Smart Contract Vulnerability Detector
+</div>
+
 This project endeavors to implement a robust, Python-centric vulnerability scanning framework designed for the proactive identification of security vulnerabilities within smart contracts
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
